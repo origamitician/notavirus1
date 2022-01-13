@@ -1,16 +1,23 @@
 
-/*body{
+body{
     overflow-x: hidden;
     overflow-y: hidden;
-}*/
+    transition: 1s;
+}
+
+#hitbox{
+    background-color: whitesmoke;
+    padding-bottom: 2000px;
+}
+
 
 .errorMsg{
-    margin-top: 3%;
     width: 350px;
     font-family: 'Roboto', sans-serif;
     background-color: blue;
     padding-bottom: 0.075%;
     position: absolute;
+    font-weight: bold;
     
 }
 
@@ -66,9 +73,9 @@
 
 .exitBtn{
     font-size: 125%;
-    width: 30%;
+    width: 35%;
     text-align: center;
-    margin-left: 63%;
+    margin-left: 58%;
     margin-right: 7%;
     background-color: lightgray;
     margin-top: 0;
@@ -85,4 +92,12 @@
 .x:hover{
     background-color: red;
     cursor: pointer;
+}
+
+#hitbox{
+    font-size: 350%;
+    text-align: center;
+    padding-left: 15%;
+    padding-right: 15%;
+    transition: 1s;
 }
