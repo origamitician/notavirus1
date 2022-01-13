@@ -19,7 +19,7 @@ var listOfQuotes = [
 
     '<iframe width="320" height="200" src="https://www.youtube.com/embed/QB7ACr7pUuE?&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
 
-    '<iframe width="320" height="200" src="/mlp.mp3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+    '<iframe width="320" height="200" src="https://origamitician.github.io/notavirus1/mlp.mp3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
 
 ]
 
