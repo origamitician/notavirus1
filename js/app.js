@@ -85,7 +85,7 @@ function clone(){
             }, 2000)
         }else{
             
-            content.innerHTML = 'You are stupid enough to go on this website.'
+            content.innerHTML = ''
             content.className = 'contentText';
             document.getElementsByClassName('content')[document.getElementsByClassName('errorMsg').length-1].appendChild(content);
         }
